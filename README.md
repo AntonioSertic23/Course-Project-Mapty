@@ -17,8 +17,10 @@ This repository contains the Mapty project developed as part of [The Complete Ja
 
 - HTML5 and CSS3 for the user interface.
 - JavaScript for the application's logic.
-- Google Maps API for displaying the map.
+- Leaflet for displaying the map.
 - The project follows modern JavaScript practices and principles, including ES6 features.
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Getting Started
 
